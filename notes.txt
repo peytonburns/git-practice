@@ -7,3 +7,4 @@ my local edit
 Line from real GitHub practice
 branch practice on GitHub
 edit made directly on GitHub
+my local edit before pull
